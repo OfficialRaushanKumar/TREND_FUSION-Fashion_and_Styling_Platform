@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TrendFusion — Fashion & Styling Platform
 
 TrendFusion is a React web app for browsing fashion collections, viewing product details, and exploring outfit and avatar styling features.
@@ -57,3 +58,6 @@ src/
 ## Notes
 
 Product catalog data and community posts are currently held in the frontend. The app does not include a backend service or persistent user authentication.
+=======
+# TREND_FUSION-Fashion_and_Styling_Platform
+>>>>>>> origin/main
